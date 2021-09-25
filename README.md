@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @lizarbpacheco
-- 👀 I’m Quality Assurane
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lizarbpacheco/lizarbpacheco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Sou Analista de qualidade com bacharelado em Ciência da Computação com ênfase em engenharia de software.
+- Estudante  Full Stack Node na Digital House : HTML -CSS - JAVASCRIPT -NODE.JS -EXPRESS.JS -REACT.JS -SEQUILIZE - MYSQL
